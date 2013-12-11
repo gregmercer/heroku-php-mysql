@@ -79,5 +79,6 @@ mysql_close($con);
 print 'php-test end' . '<br />';
 
 //phpinfo(); 
+//
 
 ?>
