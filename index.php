@@ -10,7 +10,7 @@ ls
 git init
 vi index.php
 
-git remote add github git@github.com:gregmercer/php-test.git
+git remote add github git@github.com:gregmercer/aaaaa.git
 
 git add .
 git commit -m 'Initial commit'
@@ -21,7 +21,6 @@ git push github master
 heroku addons:add cleardb
 
 heroku config --app <app name>
-heroku config --app ancient-thicket-2675
 
 .
 
